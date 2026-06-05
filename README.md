@@ -68,7 +68,7 @@ wttr.in — Weather API
 
 Author
 Hussnain
-Cybersecurity Student — UET Techslab
+Cybersecurity Student — UET taxila
 
 License
 This project is open-source and free to use for personal and educational purposes.
